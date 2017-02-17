@@ -1,0 +1,8 @@
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\bin\Release\PruebaGIT.exe
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\bin\Release\PruebaGIT.pdb
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\bin\Release\PruebaGIT.xml
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\obj\Release\PruebaGIT.Resources.resources
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\obj\Release\PruebaGIT.vbproj.GenerateResource.Cache
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\obj\Release\PruebaGIT.exe
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\obj\Release\PruebaGIT.xml
+C:\Users\SERGIOVB\Dropbox\Contaline\Proyectos VB\Repo\vbpruebas2\PruebaGIT\PruebaGIT\obj\Release\PruebaGIT.pdb
